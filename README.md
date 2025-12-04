@@ -1,4 +1,4 @@
-# 🗣️ Real-Time Voice-to-Text Translator
+# 🗣️ Real-Time Voice-to-Text Transcript Generator
 
 ![Demo](Demo.gif)
 
